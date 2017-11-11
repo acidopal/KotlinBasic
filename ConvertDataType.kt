@@ -10,6 +10,7 @@ fun main(args:Array<String>){
     println("n1 : "+ n1)
     println("n2 : "+ n2)
     println("n2Float : "+ n2Float)
+    
     var xpi:Double=3.14
     println("xpi : "+xpi)
 
