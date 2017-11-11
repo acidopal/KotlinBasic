@@ -3,7 +3,7 @@ fun main(args:Array<String>){
     var nilai:Double= readLine()!!.toDouble()
 
     if (nilai<75){
-        print("Anda Haru Remedial!")
+        print("Anda Harus Remedial!")
     }
 
     if (nilai>75){
