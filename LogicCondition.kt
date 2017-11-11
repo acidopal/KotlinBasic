@@ -7,4 +7,9 @@ fun main(args:Array<String>){
     //Karena kondisi 3 < 10 True , dan & > 10 False
     //True + False = False
     println(3<10 && 8>10)
+
+    //Condition TRUE
+    //Kondisi 3 < 10 True , dan & > 10 False
+    //Karena menggunakan OR jika salah satu ada yg bernilai true maka hasilnya true
+    println(3<10 || 8>10)
 }
