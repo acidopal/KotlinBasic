@@ -1,4 +1,3 @@
-
 fun main(args:Array<String>){
     //Var menampung data
     //Val nilai tetap data
