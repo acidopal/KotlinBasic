@@ -14,4 +14,12 @@ fun main(args:Array<String>){
             print("max : "+n2)
         }
     */
+
+    //WHen
+    var age=30
+    var isYoung=when(age){
+        30->true
+        else->false
+    }
+    println("isYoung : $isYoung")
 }
